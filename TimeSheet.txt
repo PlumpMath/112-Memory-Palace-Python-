@@ -1,0 +1,39 @@
+Projected Schedule:
+
+Week 1:
+Figure out how to visualize rooms while displaying floorplans etc. Develop the method for drawing
+our memory palaces.
+
+Week 2:
+Figure out how to turn inputs from user into usable data. So if user says they want a 'library'
+with 5 rooms and rooms 1,3,5 have bookselves etc. How do we implement that?
+
+Week 3:
+Storing items we must memorize at specific locations, running through memory palace to see if
+the program works...
+
+Week 4:
+Work in UI
+
+---
+TimeSheet 
+---
+Date: 140415
+
+8 HRS- Familiarizing with Blender, Yabee for Panda3D exporter, and Panda3D
+Learned Collision Detection, setting up objects, event controllers 
+
+Date: 140416 
+4 HRS
+Date: 140418
+6 HRS- Setting up house 
+Date: 140419
+6 HRS- Setting up mouse clicks with objects
+Date: 140421
+6 HRS- Continuing to build house...
+040421-040425
+Approx 6 HRS 
+040426-NOW
+Approx 24 HRS 
+
+Total: Approx 60 hrs total...

@@ -1,0 +1,10 @@
+Objective:
+
+Test the effectiveness of the mnemonic method of memorizing information through associating abstract objects with visually accessible 'replacements'. We do this through attempting to memorizing 13 cards through this method.
+
+Instructions:
+
+Download panda3d and place model files in the folder 'models' in the panda3D directory. Do not place the folder in, but the actual files. It is alright if there are existing files in the directory.
+
+Program mostly uses the mouse but with exceptions for inputting information 
+

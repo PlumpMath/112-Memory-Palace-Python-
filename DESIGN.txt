@@ -1,0 +1,5 @@
+Design
+
+I used the Panda 3D module for the 3D environment. This was necessary because spatial understanding is not 2D based, therefore it is integral to model the environment very similar to 'real life'. The house acts as the memory palace and is modelled to portray an everyday home. Step one is to make the associationss- and this is done through inputting the actual words of the visual objects we associated with the abstract cards.
+
+Next, we are introduced to the 3D environment. After a robust understanding of the house and concrete associations made between the cards and visual objects/verbs/ etc we can form a narrative which the individual will be able to recall anywhere from an hour later to days and weeks even.  
